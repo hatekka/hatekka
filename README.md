@@ -1,9 +1,8 @@
-<h1 align="center">Hi, I'm Hateka</h1>
-<h3 align="center">A passionate developer from France</h3>
+<h3 align="center">💼 À propos de moi</h3>
 
 <p align="left"> <a href="https://twitter.com/hateka__" target="blank"><img src="https://img.shields.io/twitter/follow/hateka__?logo=twitter&style=for-the-badge" alt="hateka__" /></a> </p>
 
-- 💻 I’m currently learning **Python**
+- 💻 J'apprends actuellement le **Python et JavaScript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
